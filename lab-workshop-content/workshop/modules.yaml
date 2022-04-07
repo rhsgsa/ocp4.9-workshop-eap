@@ -1,0 +1,21 @@
+config:
+    vars:
+    - name: OC_VERSION
+      value: 4.8.0
+    - name: KUBECTL_VERSION
+      value: undefined
+
+modules:
+    workshop-overview:
+        name: Workshop Overview
+    exercises/01-install-eap:
+        name: Install EAP Operator
+    exercises/02-session-replication:
+        name: Deploy Application - Session Replication
+    exercises/03-db-integration:
+        name: Deploy Application - Database Integration
+    exercises/04-monitoring:
+        name: Monitoring and Logging
+    exercises/05-jvm:
+        name: JVM Setting
+

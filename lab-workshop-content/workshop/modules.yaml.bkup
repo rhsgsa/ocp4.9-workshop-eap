@@ -1,0 +1,26 @@
+config:
+    vars:
+    - name: OC_VERSION
+      value: 4.7.0
+    - name: KUBECTL_VERSION
+      value: undefined
+
+modules:
+    workshop-overview:
+        name: Workshop Overview
+    exercises/01-explore-dev-console:
+        name: Explore Developer Console
+    exercises/02-crw:
+        name: Develop and Deploy Spring Boot Microservices using CodeReady Workspace
+    exercises/03-call-common-service:
+        name: Services Integration
+    exercises/04-call-db:
+        name: DB Integration and Dynamics Parameters
+    exercises/05-move-sit:
+        name: Application deployment to next environment
+    exercises/06-abdeploymt:
+	name: A/B Deployment
+    exercises/07-monitoring:
+        name: Monitoring and Logging
+    exercises/08-resoucemgmt:
+        name: Resource Management

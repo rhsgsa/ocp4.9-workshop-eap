@@ -1,0 +1,11 @@
+name: Workshop Content
+
+modules:
+    activate:
+    - workshop-overview
+    - exercises/01-install-eap
+    - exercises/02-session-replication
+    - exercises/03-db-integration
+    - exercises/04-monitoring
+    - exercises/05-jvm
+    - workshop-summary
