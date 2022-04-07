@@ -1,6 +1,6 @@
 Project related to this workshop 
-* https://github.com/likhia/eap73-ocp-helloworld.git
-* https://github.com/likhia/eap73-ocp-db.git
+* https://github.com/rhsgsa/eap73-ocp-helloworld.git
+* https://github.com/rhsgsa/eap73-ocp-db.git
 
 SET UP
 ======
